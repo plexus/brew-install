@@ -25,7 +25,7 @@
 
   <properties>
     <clojure.version>1.10.1</clojure.version>
-    <tools.deps.version>0.7.541</tools.deps.version>
+    <tools.deps.version>0.7.550-SNAPSHOT</tools.deps.version>
   </properties>
 
   <dependencies>
@@ -35,7 +35,7 @@
       <version>${clojure.version}</version>
     </dependency>
     <dependency>
-      <groupId>org.clojure</groupId>
+      <groupId>lambdaisland</groupId>
       <artifactId>tools.deps.alpha</artifactId>
       <version>${tools.deps.version}</version>
     </dependency>
